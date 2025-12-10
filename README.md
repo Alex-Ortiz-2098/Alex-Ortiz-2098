@@ -20,13 +20,7 @@
 
 - 🎞️ **Motor de Búsqueda Difusa (c#):** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
   [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)
-
----
-
-## 📬 Contacto
-  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+  
 ---
 
 <div align="center">
@@ -74,3 +68,11 @@
 
 
 </div>
+
+
+---
+
+## 📬 Contacto
+
+  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
