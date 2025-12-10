@@ -6,10 +6,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Alex-Ortiz-2098/Alex-Ortiz-2098/blob/main/imagenes/almuerzo-cohete.png?raw=true" height="30" style="vertical-align:middle"> 
-  <strong>Tu texto aquí</strong>
-</p>
+<h3 align="center">
+  <img src="URL_DE_TU_COHETE.png" height="30" style="vertical-align: -5px;" /> 
+  Tu texto aquí
+</h3>
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
 - 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
