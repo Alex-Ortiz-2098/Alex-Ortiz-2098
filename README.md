@@ -6,7 +6,7 @@
 
 ---
 
-### ![Sobre mí](imagenes/Almuerzo-cohete.jpg)
+### ![Sobre mí](imagenes/almuerzo-cohete.jpg)
 
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
