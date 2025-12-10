@@ -23,6 +23,14 @@
 
 ---
 
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
 <div align="center">
   
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes </b>
@@ -68,10 +76,3 @@
 
 
 </div>
-
-
-## 📬 Contacto
-<p align="center">
-  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
