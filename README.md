@@ -24,10 +24,8 @@
 ---
 
 ## 📬 Contacto
-<p align="center">
   <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ---
 
