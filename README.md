@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1C1BFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+Perfil..";></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
----
-
 ## 🚀 Sobre Mi
+
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
 - 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
