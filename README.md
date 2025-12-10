@@ -1,11 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&center=true&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
 </p>
-
 
 ## 🚀 Sobre Mi
 
@@ -21,7 +16,6 @@
 
 - 🎈 **Gestión de Salón de Fiestas (c#):** Sistema integral para la administración de eventos y recursos. Diseñado con **POO**, implementa **Herencia** para la gestión de personal, **Manejo de Excepciones** para conflictos de agenda y lógica financiera para presupuestos y cancelaciones.  [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Gestion-de-Salon-de-Fiestas)
 
-
 - 🎞️ **Motor de Búsqueda Difusa (c#):** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
   [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)
 
@@ -35,7 +29,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   </p>
 
-  <h3>🌱 Actualmente Aprendiendo</h3>
+  <h3>🧠 Actualmente Aprendiendo</h3>
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
