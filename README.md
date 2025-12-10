@@ -6,7 +6,8 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀
+Sobre mí
 
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
