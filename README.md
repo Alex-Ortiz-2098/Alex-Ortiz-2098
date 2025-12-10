@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tu texto aquí
+## 🚀 Sobre Mi
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
 - 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
@@ -25,8 +25,14 @@
 
 ## 💼 Proyectos Destacados
 
-- ⚙️ **Sistema de Gestión Académica (C#)** Prototipo de sistema de gestión desarrollado en equipo. Coordinación de tareas y resolución de problemas lógicos.  
+- 🎈 **Gestion de Salon de Fiesta (C#)** Coordinación de tareas y resolución de problemas lógicos.  
   [🔗 Ver repositorio](https://github.com/Alex-Ortiz-2098/NOMBRE_DEL_REPOSITORIO)
+
+
+- 🎞️ **Motor de Búsqueda Difusa (c#)** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
+  [🔗 Ver repositorio](https://github.com/Alex-Ortiz-2098/Gestion-de-Salon-de-Fiestas)
+
+
 
 ---
 
