@@ -51,9 +51,7 @@
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   </p>
 
-</div>
-
-<h3>⚙️ Herramientas de Desarrollo</h3>
+  <h3>⚙️ Herramientas de Desarrollo</h3>
   <p>
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -67,6 +65,10 @@
     <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
     <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
   </p>
+
+
+</div>
+
 
 ## 📬 Contacto
 <p align="center">
