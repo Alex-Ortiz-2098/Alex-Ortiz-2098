@@ -25,12 +25,12 @@
 
 ## 💼 Proyectos Destacados
 
-- 🎈 **Gestion de Salon de Fiesta (C#)** Coordinación de tareas y resolución de problemas lógicos.  
-  [🔗 Ver repositorio](https://github.com/Alex-Ortiz-2098/NOMBRE_DEL_REPOSITORIO)
+- 🎈 **Gestión de Salón de Fiestas** Sistema integral para la administración de eventos y recursos. Diseñado con **POO**, implementa **Herencia** para la gestión de personal, **Manejo de Excepciones** para conflictos de agenda y lógica financiera para presupuestos y cancelaciones.  
+  [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/NOMBRE_DEL_REPOSITORIO)
 
 
 - 🎞️ **Motor de Búsqueda Difusa (c#)** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
-  [🔗 Ver repositorio](https://github.com/Alex-Ortiz-2098/Gestion-de-Salon-de-Fiestas)
+  [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Gestion-de-Salon-de-Fiestas)
 
 
 
