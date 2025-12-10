@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&center=true&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
+
 ## 🚀 Sobre Mi
 
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
