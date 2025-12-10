@@ -2,27 +2,40 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1C1BFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+Perfil..<3";></a>
 </p>
 
-👋 Soy Alex Ortiz.
+<h4 align="center">Estudiante de Ingeniería en Informática — Desarrollando soluciones con C#, Python y SQL.</h4>
 
-[cite_start]✨ Estudiante avanzado de Ingeniería en Informática [cite: 2, 3] [cite_start]en la Universidad Nacional Arturo Jauretche (UNAJ)[cite: 12]. Mi enfoque es el desarrollo de sistemas con una base en la gestión de datos.
+---
 
-[cite_start]🔭 Actualmente estoy buscando mi primera pasantía o rol junior [cite: 9] en áreas administrativas, comerciales o de soporte técnico.
+### 🚀 Sobre mí
 
-🌱 **Mi Stack Tecnológico (Skills):**
-* **Lenguajes:** C#, Python.
-* **Bases de Datos:** SQL, Microsoft SQL Server.
-* **Sistemas Operativos:** Linux (Ubuntu, Debian, Mint), Windows.
-* [cite_start]**Herramientas:** Microsoft Office[cite: 19], Canva.
-
-⚡ **Lo que me destaca:**
-* [cite_start]**Proyectos:** Desarrollé un sistema de gestión en C# [cite: 31] que me permitió demostrar capacidad de **coordinación de tareas** y **resolución de problemas**.
-* [cite_start]**Trabajo en Equipo:** Fuerte **capacidad de adaptación** y **compromiso** forjados como jugador de vóley Semiprofesional[cite: 28, 25].
-* [cite_start]**Habilidades Blandas:** Capacidad de análisis, Proactividad [cite: 23] y Servicio de atención al cliente.
-
-📫 **¿Cómo contactarme?**
-* [cite_start]**Mail:** mati2000418@gmail.com [cite: 5]
+- 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
+- ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
+- 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
+- 🔭 Busco activamente mi primera **pasantía o rol junior** para aplicar mis conocimientos.
+- 📫 **Correo:** mati2000418@gmail.com
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex-Ortiz-2098&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
+  <a href="https://github.com/Alex-Ortiz-2098?tab=followers">
+    <img src="https://img.shields.io/github/followers/Alex-Ortiz-2098?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 💼 Proyectos Destacados
+
+- ⚙️ **Sistema de Gestión Académica (C#)** Prototipo de sistema de gestión desarrollado en equipo. Coordinación de tareas y resolución de problemas lógicos.  
+  [🔗 Ver repositorio](https://github.com/Alex-Ortiz-2098/NOMBRE_DEL_REPOSITORIO)
+
+---
+
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
 
