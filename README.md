@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1C1BFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+Perfil..💻";></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1C1BFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+Perfil..";></a>
 </p>
 
 <h4 align="center">Estudiante de Ingeniería en Informática </h4>
@@ -25,7 +25,7 @@
 
 ## 💼 Proyectos Destacados
 
-- 🎈 **Gestión de Salón de Fiestas (c#): ** Sistema integral para la administración de eventos y recursos. Diseñado con **POO**, implementa **Herencia** para la gestión de personal, **Manejo de Excepciones** para conflictos de agenda y lógica financiera para presupuestos y cancelaciones.  [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/NOMBRE_DEL_REPOSITORIO)
+- 🎈 **Gestión de Salón de Fiestas (c#): ** Sistema integral para la administración de eventos y recursos. Diseñado con **POO**, implementa **Herencia** para la gestión de personal, **Manejo de Excepciones** para conflictos de agenda y lógica financiera para presupuestos y cancelaciones.  [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)
 
 
 - 🎞️ **Motor de Búsqueda Difusa (c#): ** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
@@ -38,22 +38,6 @@
   <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
