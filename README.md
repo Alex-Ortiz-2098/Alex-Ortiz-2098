@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tourney&size=28&pause=1000&color=F7F7F7&center=true&width=630&lines=Bienvenido+a+Mi+Perfil..;Alex+Ortiz;Estudiante+de+Ingenieria+en+Informatica" alt="Typing SVG" /></a>
 </p>
 
+--- 
+
 ## 🚀 Sobre Mi
 
 - 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
@@ -18,6 +20,8 @@
 
 - 🎞️ **Motor de Búsqueda Difusa (c#):** Implementación de un **Árbol BK (Burkhard-Keller)** en C# para realizar búsquedas de coincidencias aproximadas utilizando la **Distancia de Levenshtein**. Optimizado para indexación eficiente de grandes volúmenes de datos.
   [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)
+
+---
 
 <div align="center">
   
