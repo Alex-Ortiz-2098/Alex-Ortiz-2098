@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mi
 
-- 💻 Estudiante de la **Universidad Nacional Arturo Jauretche (UNAJ)** enfocado en desarrollo y gestión de datos.
+- 💻 Estudiante **enfocado en desarrollo y gestión de datos.**
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
 - 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
 - 🔭 Busco activamente mi primera **pasantía o rol junior** para aplicar mis conocimientos.
