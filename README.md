@@ -10,7 +10,7 @@
 - ⚙️ Manejo lenguajes como **C#** y **Python**, bases de datos **SQL** y entornos **Linux/Windows**.
 - 🤝 Tengo fuerte capacidad de **trabajo en equipo** y adaptabilidad gracias a mi trayectoria deportiva.
 - 🔭 Busco activamente mi primera **pasantía o rol junior** para aplicar mis conocimientos.
-- 📫 **Correo:** mati2000418@gmail.com
+- 📫 **Correo:** unajalexmatias@gmail.com
 
 ---
 
@@ -74,6 +74,6 @@
 
 ## 📬 Contacto
 <div align="center">
-  <a href="mailto:mati2000418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto: unajalexmatias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alex-matías-ortiz-9783b92b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
