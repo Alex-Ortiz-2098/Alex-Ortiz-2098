@@ -16,19 +16,19 @@
 
 ## 📂 Proyectos Destacados
 
-    Simulador de E-Commerce (Pulso Neón) | JS, HTML, CSS
+   - Simulador de E-Commerce (Pulso Neón) | JS, HTML, CSS
     Link al Repositorio
     Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
 
-    Motor de Búsqueda Difusa | C#
+   - Motor de Búsqueda Difusa | C#
     Link al Repositorio
     Implementación de Árbol BK (Burkhard-Keller) para indexación métrica y aplicación de Distancia de Levenshtein para coincidencias aproximadas.
 
-    Sistema de Gestión de Salón de Fiestas | C#, SQL, POO
+   - Sistema de Gestión de Salón de Fiestas | C#, SQL, POO
     Link al Repositorio
     Sistema integral de escritorio para administración de recursos y agendas. Integración con SQL para reportes financieros y diseño basado en POO con manejo robusto de excepciones.
 
-    Toolkit de Patrones de Diseño | C#
+   - Toolkit de Patrones de Diseño | C#
     Link al Repositorio
     Framework que integra las tres familias de patrones de diseño (Gang of Four). Implementación de patrones Creacionales, Estructurales y de Comportamiento.
     
