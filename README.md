@@ -19,13 +19,13 @@
 **Simulador de E-Commerce (Pulso Neón) | JavaScript, HTML, CSS** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/pulso-neon)  
 Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
 
-**Motor de Búsqueda Difusa | C#** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/tu-repo-motor)  
+**Motor de Búsqueda Difusa | C#** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)  
 Implementación de Árbol BK (Burkhard-Keller) para indexación métrica y aplicación de Distancia de Levenshtein para coincidencias aproximadas.
 
-**Sistema de Gestión de Salón de Fiestas | C#, SQL, POO** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/tu-repo-gestion)  
+**Sistema de Gestión de Salón de Fiestas | C#, SQL, POO** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Gestion-de-Salon-de-Fiestas)  
 Sistema integral de escritorio para administración de recursos y agendas. Integración con SQL para reportes financieros y diseño basado en POO con manejo robusto de excepciones.
 
-**Toolkit de Patrones de Diseño | C#** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/tu-repo-toolkit)  
+**Toolkit de Patrones de Diseño | C#** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Toolkit-de-Patrones-de-Dise-o)  
 Framework que integra las tres familias de patrones de diseño (Gang of Four). Implementación de patrones Creacionales, Estructurales y de Comportamiento.
     
 <div align="center">
