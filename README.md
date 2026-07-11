@@ -16,7 +16,7 @@
 
 ### 📂 Proyectos Destacados
 
-**Simulador de E-Commerce (Pulso Neón) | JavaScript, HTML, CSS** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/pulso-neon) [Ver Pagina](https://alex-ortiz-2098.github.io/Pulso-Neon/)  
+**Simulador de E-Commerce (Pulso Neón) | JavaScript, HTML, CSS** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/pulso-neon) | [Ver Pagina](https://alex-ortiz-2098.github.io/Pulso-Neon/)  
 Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
 
 **Motor de Búsqueda Difusa | C#** [✔️ Ver repositorio](https://github.com/Alex-Ortiz-2098/Complejidad-Temporal-Cinema)  
