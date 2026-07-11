@@ -14,43 +14,24 @@
 
 ---
 
-## 💼 PROYECTOS DE DESARROLLO DESTACADOS
+## 📂 Proyectos Destacados
 
-Simulador de E-Commerce (Front-End) - Pulso Neón | JavaScript, HTML5, CSS3
-[✔️ Ver repositorio: ]
+    Simulador de E-Commerce (Pulso Neón) | JS, HTML, CSS
+    Link al Repositorio
+    Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
 
-    Desarrollo de una aplicación web dinámica estructurada mediante Módulos ES6, implementando un catálogo interactivo y un carrito de compras funcional.
+    Motor de Búsqueda Difusa | C#
+    Link al Repositorio
+    Implementación de Árbol BK (Burkhard-Keller) para indexación métrica y aplicación de Distancia de Levenshtein para coincidencias aproximadas.
 
-    Consumo asíncrono de productos mediante Fetch API (archivos JSON) y manipulación eficiente del DOM para la renderización de la interfaz.
+    Sistema de Gestión de Salón de Fiestas | C#, SQL, POO
+    Link al Repositorio
+    Sistema integral de escritorio para administración de recursos y agendas. Integración con SQL para reportes financieros y diseño basado en POO con manejo robusto de excepciones.
 
-    Implementación de persistencia de sesión en el cliente utilizando LocalStorage y validación de formularios en tiempo real.
-
-Motor de Búsqueda Difusa y Algoritmia | C#
-[✔️ Ver repositorio: github.com/TuUsuario/tu-repo-motor]
-
-    Implementación de un Árbol BK (Burkhard-Keller) en C# para realizar búsquedas de coincidencias aproximadas.
-
-    Aplicación matemática de la Distancia de Levenshtein optimizada para la indexación eficiente de grandes volúmenes de datos.
-
-Sistema de Gestión de Salón de Fiestas | C#, SQL y POO
-[✔️ Ver repositorio: github.com/TuUsuario/tu-repo-gestion]
-
-    Sistema integral de escritorio para la administración de eventos y recursos.
-
-    Diseño basado en Programación Orientada a Objetos (POO), implementando Herencia para la gestión de personal y un sistema robusto de Manejo de Excepciones para evitar conflictos de agenda.
-
-    Lógica financiera para presupuestos y cancelaciones, con integración de persistencia de datos y control de versiones mediante Git/GitHub.
-
-Toolkit de Patrones de Diseño y Arquitectura | C#
-[✔️ Ver repositorio: github.com/TuUsuario/tu-repo-toolkit]
-
-    Desarrollo de un framework que integra las tres familias de patrones de diseño The Gang of Four.
-
-    Implementación de patrón Creacional (Factory) para la instanciación flexible de objetos.
-
-    Uso de patrones Estructurales (Adapter, Proxy y Decorator) para la extensibilidad y compatibilidad de interfaces, y de Comportamiento (Observer e Iterator) para gestión de comunicación y colecciones.
----
-
+    Toolkit de Patrones de Diseño | C#
+    Link al Repositorio
+    Framework que integra las tres familias de patrones de diseño (Gang of Four). Implementación de patrones Creacionales, Estructurales y de Comportamiento.
+    
 <div align="center">
   
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes </b>
