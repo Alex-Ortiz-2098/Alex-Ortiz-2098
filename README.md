@@ -18,7 +18,7 @@
 
    - Simulador de E-Commerce (Pulso Neón) | JS, HTML, CSS
     Link al Repositorio
-    Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
+    --Desarrollo de aplicación web dinámica con Módulos ES6, catálogo interactivo, consumo de APIs (Fetch) y persistencia local con LocalStorage.
 
    - Motor de Búsqueda Difusa | C#
     Link al Repositorio
